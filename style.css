@@ -1,0 +1,16 @@
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#dropdown {
+  margin-right: 20px;
+  width: 150px;
+}
+
+#picture {
+  height: 350px;
+  width: 350px;
+}
